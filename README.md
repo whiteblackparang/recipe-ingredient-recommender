@@ -66,6 +66,7 @@ Streamlit 기반 데모, 3단 구성
 - 하단: 이미지 카드 그리드 3열 (사진/제목/가진 재료/부족 재료)
 
 ## 폴더 구조
+```
 food-recipe-recommendation/
 ├── README.md
 ├── REPORT.md
@@ -89,7 +90,7 @@ food-recipe-recommendation/
 ├── recipes_with_features.csv
 ├── ingredient_stats.csv
 └── fig_*.png
-
+```
 
 ## 실행 방법
 ```bash
